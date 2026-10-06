@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Datasets are large: do NOT commit them
+data/smartdoc/
+data/raw/
+data/kaggle_extra/
+
+# Generated outputs
+results/*
+!results/.gitkeep

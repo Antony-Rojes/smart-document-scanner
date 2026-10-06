@@ -1,0 +1,10 @@
+opencv-python>=4.8
+numpy>=1.24
+scikit-image>=0.21
+matplotlib>=3.7
+pytesseract>=0.3.10
+Pillow>=10.0
+pandas>=2.0
+python-Levenshtein>=0.21
+streamlit>=1.30
+tqdm>=4.65
