@@ -1,0 +1,35 @@
+perv" e detect+” a phone pho
+hase 2: P28 : e in
+wuphase nt pag' ‘
+4 : ‘of a docume
+. four corners aM se
+: Finds the four -> canny -? 620
+3 -> blur -> orde
+scale ints
+4 ize -> Bray to 4 po
+line: res oximates
+ial ¢ contour that appr
+. tahead 1g pixel coore
+ned in the ORIGINAL 4mage
+8 Corners.are retur bottom-right, bottom-left.
+9 top-left, top-right, 20 { 3
+10 nou t; if
+11 fron _future__ import ‘annotations
+12\ :
+13 | import argparse ; ’
+14 from dataclasses import dataclass, field
+15 from pathlib import Path ‘ ne
+16
+7 import cv2
+18 import numpy as np
+19
+20 ; ;
+# Working height for detecti,
+2 # Less Noisy) on. Edges are f
+22 ¥7+ then’ cornerg ®und on a sma
+PETECT_HETOHT ‘=’ 599 “re Scaled back to t
+23) MIN AREA FRACT he origi
+a FRACTION = 9.19 _
+25 8 must Cover ay :
+| % ®ast 192
+a eee @datacj...

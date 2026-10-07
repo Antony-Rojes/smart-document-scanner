@@ -1,0 +1,8 @@
+| IV corpArte vision isthe field of ‘teaching machines to i .
+-Adocument scanner is a small example of i eI pa
+straightens the view, and removes shadows So that the text is eas :
+First, the program converts the photo ta fay and finds th ne stron =
+} Next, itlooks for the largest shape with four corners, which is usu
+Then it stretches that shape into a flat rectangle, Cl = =
+“a 80 that the writing looks dark : =
+; and the T 1O0ks wh SS

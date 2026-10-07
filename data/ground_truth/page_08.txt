@@ -1,0 +1,9 @@
+Dish Qty Amount
+Lahori Murgh Tandoori 1 180.00
+Tsf Platter Paneer Aati 2 300.00
+Papad 1 75.00
+Assorted Veg Platter 2 500.00
+Tsf Platter Kadhai Paneer 2 300.00
+Choice Of Juice 1 160.00
+Aerated Water 2 60.00
+Bottled Water 1 36.00

@@ -1,0 +1,37 @@
+0
+—_ we in
+a a: pest - ypent pase
+. pan of 8 docu a -> close
+i ‘ corners -> Canny orde
+four ur 6 ->
+ants the ->D int
+3 rayecale tes to 4 PO
+A , resize -7 6 spproxima , ord
+nine: r thet ixel co
+5 tip t contou ‘oP
+-> larges NAL iaage
+5 e ORIC left.
+in th ottom- .
+7 re returned right, bott
+§ Corners @ ight, bottom ,
+left, top-rig .
+9° top .
+“ on
+ie" re__ import annotatd
+11 from _future_
+2 rse 7 1d :
+1 .
+ee ‘lanes import dataclass, fie’ .
+14 from datacla: h .
+15 from pathlib import Pat
+16
+VV import ew2
+18 import numpy as np
+19
+2 Working height for detection. Edges are found On a sing
+21 Ww Less NOisy), then Corners are Scaleg back to the Orig
+2 DETECT HEIGHT = 580
+2 *IM_AREA FRacTy .
+a Marg y Page must Cover at least 103,
+2
+| & @atacys..

@@ -1,0 +1,38 @@
+io aan is 7, e pho
+per" ii cecal ‘ ira phon
+wumphase 5 yment p ,
+de or rs of a doc . i 3
+2) ae tour corne Mi ny -7 6108
+} ds +he -> Can
+3 Finds Age Sie
+3 -> 'b “5 6)
+ayscale ~” pints -
+er, ¢. raize -2 8° imates to 4 P
+5 “pipeline! sour that approximats
+5 > largest con ‘ 1g pixel coore
+[x (AL image’s piXxe
+he ene tie ORIGINAL
+m are returned in ti -left. :
+8| Corners.are © bottom-right, bottom :
+fy i top-left, top-right; i) ia $i sa et :
+10 | wane 4 fa oe mee
+11 | fron __future__ import annotat : :
+13 | “import argparse i sabi ;
+44) from dataclasses import dataclass, field : i
+15 | from pathlib import Path ese :
+16 | cde : ;
+7 import cv2 : eu
+18 |_ import numpy as np
+19
+20) # Working hei,
+ght for detects ;
+21) # less Noisy), th “sion. Edges re found on
+7 “nen corners are @ sma
+22 DETECT HEIGHT ‘= SCaleq back t
+22h gt ee A Eee oro;
+MIN_AREA FRACTION %
+24 z *0.10. pa
+25). ° Be must Cover
+at least 4
+% Q3
+=o Qatari...

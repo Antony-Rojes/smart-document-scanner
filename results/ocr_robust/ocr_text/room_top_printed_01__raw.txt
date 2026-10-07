@@ -1,0 +1,10 @@
+Computer visian is the field of teaching machines to understand images and aa
+video. , =
+i dacument scanner is a small example of this idea. it finds the page ina = : =
+photo, —_
+straightens the view, and removes shadows so that the text ts easy to read. sz
+First, the program converts the photo to gray and finds the strong edges. =.
+Next, it looks for the largest shape with four corners, which is usually the| : age
+Then it stretches that shape into a flat rectangle. Finally, it cleans the ghting
+
+so that the writing looks dark and the paper looks whjte. 4 —

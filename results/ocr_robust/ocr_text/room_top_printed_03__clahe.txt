@@ -1,0 +1,25 @@
+“ pe 3 Finds the’ four corners ‘of a docu int page in a phone pho
+a Sit eee: resize Fie grayscale Ge ‘blur => Caray aloes
+“| 6 | -> largest. contour that approximates to 4 points -> orde
+
+= | Co} rners.are returned in the be INAL image's pixe: bieper
+
+: 3 : Sa pe ccamer pada” ight, bottor ee :
+
+eS 4 1 | om _future_ import annotati ‘ . a
+_' | 14 | from dataclasses import dataclass, field
+|| 45 from pathLib import Path 7
+
+18 | import numpy as n| , a
+
+- ee a pee tc . E ae oh.
+: 20 # Working height for detection. Edges are found on 2 sme
+: 21| # less noisy), then corners are scaled ‘back to the origi
+| 22 | DETECT MEXOHTw ise ii 0
+| 23 |. MIN_AREA_FRACTION = @.10 # page must cover at least 10°
+| + a : se ai Lo,
+| 26 | @dataclass NS Son ae =
+
+} | | 27 | class DetectionResult:. ee per
+
+"28 “corners: np.ndarray _ + (A, 2) Float32, TL;

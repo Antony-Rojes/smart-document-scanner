@@ -1,0 +1,4 @@
+doc,frames,correct,mean_iou
+datasheet001,22,0.955,0.945
+letter001,18,0.944,0.935
+magazine001,20,1.0,0.983

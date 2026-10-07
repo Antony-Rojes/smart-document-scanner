@@ -1,0 +1,6 @@
+AIM:
+To develop a calculator application to perform basic operations.
+PROCEDURE:
+1. Create a new project in Android Studio.
+2. Drag and drop TextView, EditText and Buttons.
+3. Set the layout properties and button click listeners.

@@ -1,0 +1,9 @@
+npute F vision is the field of teaching machines to understand images and
+Ocument scanner is a small example of this idea. It finds the page in a
+taightens the view, and removes shadows so that the text is easy to read.
+st, the program converts the photo to gray and finds the strong edges.
+ext, it t looks for the largest shape with four corners, which is usually the page.
+en Nit stre ch es that shape into a flat rectangle. Finally, it cleans the lighting
+50 that the writing looks dark and the paper looks white.
+"a
+a >

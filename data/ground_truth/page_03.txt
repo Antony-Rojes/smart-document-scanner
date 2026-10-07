@@ -1,0 +1,4 @@
+Experiment No: 03
+Title: Feature Detection and Description
+Objective: To implement Harris Corner Detector and SIFT feature extractor.
+Theory: Corners are regions in the image with large variation in intensity in all directions.

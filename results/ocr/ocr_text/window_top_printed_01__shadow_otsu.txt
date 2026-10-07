@@ -1,0 +1,12 @@
+PULET VISION 15 The Heid of teacning machines to understand images and
+Oo.
+
+ocument scanner is a small example of this idea. it finds the page ina
+
+to,
+
+aightens the view, and removes shadows so that the text is easy to read.
+St, the program converts the photo to gray and finds the strong edges.
+ert. Ielooks for the largest shape with four comers, which és Usually the pay
+hen it stretches that shape into a flat Fectangle. Finally, it cleans the lighting
+ir tht tan ueidinn in.) 1 a

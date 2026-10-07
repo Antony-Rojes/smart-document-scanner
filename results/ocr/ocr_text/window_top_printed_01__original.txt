@@ -1,0 +1,12 @@
+REFS VISION ts HE TE OF Teaching machines to Understand images and
+0, |
+
+pcument scanner isa small example of this idea. It finds the page ina
+
+ato, Mi l|
+
+aightens the view, and removes shadows so that the text is easy to read.
+sty the program converts the photo to fay, and finds the strong edges.
+ext, Wlooks for the largest’ shape Wit fou corners, which is usually the pag
+hen it stretches that shape into a flat recangle Finally, it cleans the lighting
+MAO OMNIA NMA

@@ -1,0 +1,16 @@
+q
+“ac to understand images and
+Computer vision is the field of teaching machines to unce e
+video.
+) Adocument scanner is a small example of this idea. It finds the page ina
+
+photo,
+
+straightens the view, and removes shadows so that the text is easy to read.
+First, the program converts the photo to gray and finds the strong edges.
+
+Next, it looks for the largest shape with four corners, which is usually the page.
+
+| Thenitstretches that shape into a flat rectangle. Finally, it cleans the lighting
+So that the writing looks dark and the paper looks white.
+; i

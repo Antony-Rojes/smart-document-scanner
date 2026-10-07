@@ -1,0 +1,7 @@
+TAX INVOICE
+Item Description Qty Rate Amount
+1 Mineral Water 2 20.00 40.00
+2 Tea / Coffee 4 15.00 60.00
+3 Snacks 2 50.00 100.00
+Total Amount: 200.00
+GST Included

@@ -1,0 +1,2 @@
+frames,tolerance,pct_correct,pct_clean,mean_iou,pct_iou_ge_0.90
+60,0.02,96.7,96.7,0.9546,96.7

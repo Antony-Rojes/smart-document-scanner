@@ -1,0 +1,10 @@
+PULET Vision js the fiey :
+vide "NSS mano tng ay
+A document Scanner is a small example ofthis idea - ; a
+straightens the view, and Temoves shadows so that th eee
+First, the Program converts the Photo to gray and finds the strong ep : |
+Next, it looks for the largest shape with four co ner , which is usually the page.
+Then it stretches that shape into a flat rectangle. Fir ily te leans the lig :
+so that the writing looks dark and the paper lo ais ae
+a
+I :

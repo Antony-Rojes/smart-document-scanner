@@ -1,0 +1,12 @@
+nn) i * Nages and
+Computer vision is the field of teaching machines to understand imag:
+wie i) | }
+Adocument scanner is a small example of this idea. it finds the Page ina
+photo, |
+straightens the view, and removes shadows so that the text is Sasy to read.
+First, the program converts the Photo to gray and finds The strong edges.
+Next, it looks for the largest shape with four comers, which is Usually the pz
+Then it stretches that shane a :
+fa shape into a flat rectangle. Finally, it deans The lieht
+80 tha E Writin i = >
+B looks dark and the Paper looks white.

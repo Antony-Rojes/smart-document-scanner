@@ -57,7 +57,39 @@ Check with `tesseract --version`.
 
 ## How to run
 
-_To be filled in as phases are completed._
+Run everything from the project root with the virtual environment active.
+
+**Scan one photo or a whole folder (command line)**
+
+```bash
+python -m app.cli data/raw/photo.jpg                 # -> results/scans/photo_scan.png
+python -m app.cli data/raw --out results/scans        # every image in a folder
+python -m app.cli photo.jpg -m adaptive               # pick the enhancement method
+python -m app.cli photo.jpg --all --debug             # every method, a comparison grid, the page outline
+python -m app.cli photo.jpg --ocr                     # also print the text Tesseract reads
+```
+
+Methods: `original`, `global`, `adaptive`, `clahe`, `shadow`, `shadow_otsu`.
+
+**Web page (Streamlit)**
+
+```bash
+streamlit run app/streamlit_app.py
+```
+
+**Run the OCR experiment (CER table)**
+
+1. Put photos in `data/raw/` and the typed text for each page in `data/ground_truth/`.
+2. List them in `data/ground_truth/mapping.csv` (`image,ground_truth,condition,doc_type`).
+3. `python -m src.ocr_eval` writes tables to `results/ocr/`.
+
+**Individual stages**
+
+```bash
+python -m src.detect photo.jpg      # page outline
+python -m src.warp photo.jpg        # flattened page
+python -m src.enhance flat.png      # all enhancement methods + grid
+```
 
 ## Random seed
 
@@ -67,10 +99,10 @@ Any random operation uses seed `42`.
 
 | Roll No | Responsibility |
 |---|---|
-| 24CS002 | |
-| 24CS003 | |
-| 24CS008 | |
-| 24CS017 | |
+| 24CS002 | Pipeline Integration & UI Development (CLI `app/cli.py` & Streamlit `app/streamlit_app.py`) |
+| 24CS003 | Perspective Transformation & Homography Warping (`src/warp.py` & `src/eval_smartdoc.py`) |
+| 24CS008 | Image Preprocessing, Canny Edge Detection & Contour Optimization (`src/detect.py` & `src/eval_own_corners.py`) |
+| 24CS017 | Illumination Enhancement, Shadow Removal & OCR CER Benchmarking (`src/enhance.py`, `src/ocr_eval.py` & results) |
 
 ## Data sources
 

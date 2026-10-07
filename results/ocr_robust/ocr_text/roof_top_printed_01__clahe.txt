@@ -1,0 +1,10 @@
+COTTIER VISION To EVE ENG OF UNINE MaCiines 10 UNGETSIANG Images and
+video, aa
+
+A document scanner isa small example of this idea. It finds the page ina
+photo, <i _
+‘Traightens the view, and removes shadows so that the text is easy to read,
+First, the program converts the Photo to pray and finds the strong edges,
+Next, it looks for the res shape with four comers, which s usual the pay
+Then it stretches that shape into a flat rectangle, Finally, it cleans the fighting
+On that st

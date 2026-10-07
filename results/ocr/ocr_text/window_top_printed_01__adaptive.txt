@@ -1,0 +1,12 @@
+purer wision is (he held of teaching machines to understand images ang
+O.
+
+acument scanner is a small example of this idea. It finds the page ina
+
+sto,
+
+aightens the view, and removes shadows So that the text is easy to read.
+rst, the program converts the photo to gray and finds the strong edges,
+ext, it looks for the largest shape with four comers, which is Usually the pag
+Ten it stretches that shape into a flat rectangle. Finally, it cleans the lighting
+SO that tha wence-t..3.3 5

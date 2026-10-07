@@ -1,0 +1,21 @@
+id che. four corners of a docu it hone pho
+a ipeline: resize -> grayscale > bl ur nny -> close
+_ am) -> largest contour that approximates to nts -> orde
+- ea Corners are returned in the ORIGINAL image's pixel coorc
+. | top-left, top-right, bottom-right, bott »
+11 from _future__ import annotations =
+. “ie “import argparse a ns “= a 4
+_ +14 | from dataclasses import dataclass, fi : re a
+415 . from pathlib import Path . —
+16 ; : | * Z
+18 import numpy as np ae
+19 | = : Boh .
+_ | 20 | # Working height for detection. Edges are found on a smz
+21 | # less noisy), then corners are scaled back to the origi
+22 DETECT_HEIGHT = 500 sia ; Be
+23 | MIN_AREA_FRACTION = 0,10 # page must cover at least 10°
+25 |: 7 5 :
+26 @dataclass
+27 +~class DetectionResult: :
+28 corners: np.ndarray . # (4, 2) float32, TL,
+—™mBeneedgcers

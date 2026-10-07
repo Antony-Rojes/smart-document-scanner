@@ -1,0 +1,23 @@
+js the four corners of a documen’ pho
+ipeline: resize -> grayscale ” blur lose ,
+—_ -> largest contour that approximates its -> orde
+bent | Corners are returned in the ‘ORIGIN pixel coord
+= i \ 9° top-l eft, top-right, bottom-right _ bo =
+; pid from __future__ import annotat a
+. “ies “import argparse ae, ' ee
+: | 14 from dataclasses import dataclass, f ag i
+15. from pathlib import Path . —— a
+| 16); eee rn
+17 import cv2 lo |
+18 | import -numpy as np ; = °. =
+19 i : ; io”
+= Al 20 # Working height for detection. Edges are found or a sma
+24 # less noisy), then corners are scaled back to th e origi
+22 DETECT_HEIGHT = 500 a
+23. MIN_AREA_FRACTION = 0.10 # page must cover at least 10%
+OAiee : :
+25 1, oe ‘ ; 3
+26 @dataclass A
+27. +~class DetectionResult: ae
+28 _ corners: np.ndarray . “# (4, 2) float32, TL,
+maeneeoere

@@ -3,11 +3,7 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 
-# Datasets are large: do NOT commit them
+# Datasets are large: keep them local
 data/smartdoc/
 data/raw/
 data/kaggle_extra/
-
-# Generated outputs
-results/*
-!results/.gitkeep

@@ -1,0 +1,12 @@
+PELET VISION IS THE TE OF Teacning machines to Understand images and
+0,
+
+pcument scanner is a small example of this idea. It finds the page in a
+
+ato, ii \
+
+aightens the view, and removes shadows so that the text is easy to read.
+st, the program converts the photo to @fay and finds the strong edges.
+si itlooks for the largest shape with uliihigin which is usually the pay
+‘hen it stretches that shape into a flat rectangle, Finally, it cleans the lighting
+OR MMU eae NL 1 PAL ELE

@@ -1,0 +1,12 @@
+Peter VISION tS The eid Of teaching machines to understand images and
+O.
+
+bawnent scanner is a small example of this idea. It finds the page ina
+
+RO,
+
+aightens the view, and removes shadows So that the text is easy to read.
+ist, the program converts the photo to gray and finds the strong edges.
+Wadi, tt looks for the largest shape with four corners, which is Usually the pag
+han it stretches that shape into a flat Tectangle. Finally, it cleans the fighting
+eS a

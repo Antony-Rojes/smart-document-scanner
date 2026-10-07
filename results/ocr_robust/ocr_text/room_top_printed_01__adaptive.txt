@@ -1,0 +1,11 @@
+; i derstand images and
+Computer vision is the field of teaching machines to un
+video. ina
+A document scanner is a small example of this idea. \t finds the page
+photo,
+straightens the view, and removes shadows so that the text is Rasy to read.
+First, the program converts the photo to Stay and finds the strong edges,
+Next, it looks for the largest shape with four corners, which is usually the pz
+Then it stretches that shape into a flat Tectangle, Finally, it deans the Nicht
+50 tha iti
+"he weting ooks dark and the paper looks white.

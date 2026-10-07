@@ -1,0 +1,10 @@
+E-vision is the field of teaching machines to understand images and
+‘scanner is a small example of this idea. It finds the page ina
+fis the view, and removes shadows so that the text is easy to read.
+Bafogram converts the photo to gray and finds the strong edges.
+vie
+looks for the largest shape with four comers, which is usually the page.
+Risaiches thet shape into flat rectangle. Finally, it cleans the lighting
+Sa
+.
+. 3. 7 Y ee :

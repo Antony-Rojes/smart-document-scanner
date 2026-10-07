@@ -1,0 +1,17 @@
+HN tN it ity
+Computer vision ts the field of teaching machines to understand images and
+video. My
+A document scanner is a small example of this idea, It finds the page in a
+NANA as
+IN KAA
+straightens the view, and removes shadows So that the text is easy to read.
+i Hii \
+First, the program converts the photo to @tay, and finds the strong edges.
+Next, it looks for the largest shape with four corners, which |s usually the page.
+i | —Cw"_"_ KT
+Wal it: tretches that shape. into a flat rectangle. Finally, tt cleans the Vighting
+so that tl i writing looks dark and the paper looks white. i
+i | \\ IK
+\ | | WAI Il \\\
+il) HII NN HN
+WN i}

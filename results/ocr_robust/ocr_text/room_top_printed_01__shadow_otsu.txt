@@ -1,0 +1,16 @@
+Computer vision is the field of teaching machines to understand images and
+video.
+
+4 document scanner ts a small example of this idea. 1t finds the page in a
+
+photo,
+
+Straightens the view, and removes shadows SO that the text is easy to read.
+First, the Program converts the Photo to SBBV and finds the strong edges.
+Nests looks forthe largest shape with four Somers, which is usually the Re
+Then it stretches that shape into aflat .
+
+so thatthe “Senge. Finaly, t deans the light
+
+writing looks dark and the
+Paper looks white.

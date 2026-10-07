@@ -1,0 +1,9 @@
+Computer vision is the field of teaching machines to understand images and
+video.
+A document scanner is a small example of this idea. It finds the page ina
+photo,
+straightens the view, and removes shadows so that the text is easy to read.
+First, the program converts the photo to lay and finds the strong edges.
+Next, it looks for the largest shape with four corners, which is usually the page.
+Then it stretches that shape into a flat rectangle. Finally, it cleans the lighting
+So that the writing looks dark and the paper looks white.
